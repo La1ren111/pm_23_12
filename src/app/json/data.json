@@ -1,0 +1,15 @@
+{
+  "name": "NOEL TAYLOR",
+  "job": "GRAPHIC & WEB DESIGNER",
+
+  "skillsLeft": [
+    { "name": "Adobe Photoshop", "rating": 4, "padClass": "pad" },
+    { "name": "Microsoft Word", "rating": 4, "padClass": "pad-2" },
+    { "name": "HTML-5/CSS-3", "rating": 4, "padClass": "pad-3" }
+  ],
+
+  "skillsRight": [
+    { "name": "Adobe Illustrator", "rating": 4, "padClass": "pad-4" },
+    { "name": "Microsoft Powerpoint", "rating": 4, "padClass": "pad" }
+  ]
+}

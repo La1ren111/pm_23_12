@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fc04a914-1f8a-4a94-9e7b-2e4f3efa2518" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/left/left.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/left/left.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/left/left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/left/left.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/script.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/script.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +127,7 @@
       <workItem from="1761678241534" duration="2051000" />
       <workItem from="1764505943042" duration="3861000" />
       <workItem from="1764520827311" duration="930000" />
-      <workItem from="1764527500344" duration="7947000" />
+      <workItem from="1764527500344" duration="8118000" />
     </task>
     <servers />
   </component>
