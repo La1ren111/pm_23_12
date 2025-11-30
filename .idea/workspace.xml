@@ -8,13 +8,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/components/left/left.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/left/left.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/components/left/left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/left/left.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/right/right.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/right/right.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/right/right.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/right/right.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +132,7 @@
       <workItem from="1761678241534" duration="2051000" />
       <workItem from="1764505943042" duration="3861000" />
       <workItem from="1764520827311" duration="930000" />
-      <workItem from="1764527500344" duration="6870000" />
+      <workItem from="1764527500344" duration="7947000" />
     </task>
     <servers />
   </component>
