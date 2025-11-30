@@ -37,6 +37,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
-    "gulp-concat": "^2.6.1"
+    "gulp-concat": "^2.6.1",
+    "sass-mq": "^7.0.0"
   }
 }
